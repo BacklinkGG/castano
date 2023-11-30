@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><body>
-<div style="display:none;"><p>
+<head><div style="display:none;"><p>
 <a href="https://philipshaibu.com/danatoto/">danatoto</a><br>
 <a href="https://susannaastro.com/danatoto/">danatoto</a><br>
 <a href="https://thejacouture.in/danatoto/">danatoto</a><br>
@@ -688,6 +687,5 @@
 <a href="https://naftechme.com/">Danatoto</a><br>
 <a href="https://pizzapleasure.com.ng/">Danatoto</a><br>
 <a href="https://www.nzxsx7.my.id/">NzXsx7</a><br>
-</p></div>
-</body></head>
+</p></div></head>
 </html>
