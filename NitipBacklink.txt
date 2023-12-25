@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body><div style="display:none;"><p>
+<div style="display:none;"><p>
 <a href="https://biolah.com/">biolah biolink</a><br>
 <a href="https://kominfo.sikkakab.go.id/">https://kominfo.sikkakab.go.id/</a><br>
 <a href="https://library.smkn1banyuwangi.sch.id/">https://library.smkn1banyuwangi.sch.id/</a><br>
@@ -55,5 +53,4 @@
 <a href="https://pjj.dianhusada.ac.id">https://pjj.dianhusada.ac.id</a><br>
 <a href="https://www.nzxsx7.my.id/">NzXsx7</a><br>
 <a href="https://www.fakhri.eu.org/">Fakhri Site</a><br>
-</p></div></body>
-</html>
+</p></div>
