@@ -1,4 +1,4 @@
-<div style="position: absolute; left: -20914565266523px; top: 0px;">
+<head><div style="position: absolute; left: -20914565266523px; top: 0px;">
 <p><a style="color: transparent;" href="https://kpi.unesa.ac.id/wp-content/gengtoto/">gengtoto</a></p>
 <p><a style="color: transparent;" href="https://paracetamol88.com/">paracetamol</a></p>
 <p><a style="color: transparent;" href="https://hariantulis.com/">biolink</a></p>
@@ -30,4 +30,4 @@
 <p><a style="color: transparent;" href="https://idideliserdang.com/">IDI - CABANG DELI SERDANG</a></p>
 <p><a style="color: transparent;" href="https://mtsdarululumsasa.sch.id/galeri/azan-fadli-m/">Azan Fadli M - MTs Darul Ulum Sasa</a></p>
 <p><a style="color: transparent;" href="https://www.sonoscanhealthcare.com/test-booking.php">Sonoscan - Delivering quality healthcare at an affordable cost</a></p>
-</div>
+</div></head>
