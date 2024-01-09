@@ -68,4 +68,6 @@
 <p><a style="display:none;" href="https://www.capcell.com/">Under Construction</a></p>
 <p><a style="display:none;" href="https://wendytitteldesign.com/">Wendy Tittel Design</a></p>
 <p><a style="display:none;" href="https://www.northcyprusnews.com/">Under Construction</a></p>
+<p><a style="display:none;" href="https://businessbannermaker.com">Business Banner Maker</a></p>
+<p><a style="display:none;" href="https://www.copa-wine.cl/">Inicio - Copa Wine</a></p>
 </div></body>
