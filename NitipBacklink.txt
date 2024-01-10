@@ -84,4 +84,8 @@
 <p><a style="display:none;" href="https://car-net.ca/">Car-Net</a></p>
 <p><a style="display:none;" href="https://designcasainterior.online/">Design CASA</a></p>
 <p><a style="display:none;" href="https://www.dairywhoswho.com/">Sri Sai Softnet</a></p>
+<p><a style="display:none;" href="https://purephilanthropy.ca/">Pure Philanthropy</a></p>
+<p><a style="display:none;" href="https://fcmnetwork.ca/">FCM Network</a></p>
+<p><a style="display:none;" href="https://www.modernschool.ac.in/">MODERN SCHOOL's</a></p>
+<p><a style="display:none;" href="https://www.modernschoolbaran.ac.in/">Modern School Baran</a></p>
 </div></body>
